@@ -73,5 +73,3 @@ Walmart-Sales-Analysis/
 - Uncovered temporal sales patterns for staffing optimization
 - Provided actionable recommendations for marketing strategies
 
-## 📧 Contact
-For questions or collaboration opportunities, please contact [Your Email].
