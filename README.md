@@ -44,14 +44,13 @@ The dataset contains detailed transaction data including:
 ```
 Walmart-Sales-Analysis/
 ├── SQL_Scripts/                # Contains all MySQL query files
-│   ├── Task1_Top_Branch.sql
-│   ├── Task2_Profitable_Products.sql
 │   └── ... (all task files)
 ├── Documentation/
-│   ├── Presentation.pptx       # PowerPoint with analysis results
 │   └── Project_Report.pdf      # Detailed project report
 ├── Dataset/                    # Dataset files
 │   └── Walmartsales_Dataset.csv
+├── SQL_Notebook/                    
+│   └── Sales Performance Analysis of Walmart Stores [databricks]
 └── README.md                   # This file
 ```
 
