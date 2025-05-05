@@ -59,7 +59,6 @@ Walmart-Sales-Analysis/
 2. Import the dataset into your MySQL database
 3. Execute the SQL scripts in sequence
 4. Review the presentation for analysis insights
-5. Watch the explanatory video for project overview
 
 ## 📝 Note
 - All SQL queries are optimized for performance and clarity
