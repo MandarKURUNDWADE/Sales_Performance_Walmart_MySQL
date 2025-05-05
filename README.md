@@ -46,8 +46,8 @@ Walmart-Sales-Analysis/
 ├── SQL_Scripts/                # Contains all MySQL query files
 │   └── ... (all task files)
 ├── Documentation/
-│   └── Project_Report.pdf      # Detailed project report
-├── Dataset/                    # Dataset files
+│   └── Project Presentation.pdf # Detailed project report
+├── Dataset/                     # Dataset files
 │   └── Walmartsales_Dataset.csv
 ├── SQL_Notebook/                    
 │   └── Sales Performance Analysis of Walmart Stores [databricks]
